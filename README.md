@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glensmall)](https://github.com/glensmall/glensmall)
 
-[![familyFincanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=familyFincanceTracker)](https://github.com/glensmall/familyFincanceTracker)
+[![familyFincanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=familyFinanceTracker)](https://github.com/glensmall/familyFinanceTracker)
 
 [![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=sandbox)](https://github.com/glensmall/sandbox)
 
