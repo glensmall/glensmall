@@ -1,7 +1,7 @@
 # Glen Small
 
 
-[![Glen's github stats](https://github-readme-stats.vercel.app/api?username=glensmall&count_private=true)](https://github.com/glensmall/glensmall)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glensmall)](https://github.com/glensmall/glensmall)
+[![Glen's github stats](https://github-readme-stats.vercel.app/api?username=glensmall&count_private=true)](https://github.com/glensmall/glensmall)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glensmall&layout=compact)](https://github.com/glensmall/glensmall)
 
 [![familyFincanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=familyFinanceTracker)](https://github.com/glensmall/familyFinanceTracker)
 
