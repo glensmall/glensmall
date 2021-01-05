@@ -5,5 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glensmall)](https://github.com/glensmall/glensmall)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=glensmall)](https://github.com/glensmall/glensmall)
+[![familyFincanceTracker](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=familyFincanceTracker)](https://github.com/glensmall/familyFincanceTracker)
+
+[![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=sandbox)](https://github.com/glensmall/sandbox)
+
+[![SQL-Live-Monitor](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=SQL-Live-Monitor)](https://github.com/glensmall/SQL-Live-Monitor)
 
