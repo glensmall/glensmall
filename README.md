@@ -5,5 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glensmall)](https://github.com/glensmall/glensmall)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=github-readme-stats)](https://github.com/glensmall/glensmall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glensmall&repo=glensmall)](https://github.com/glensmall/glensmall)
 
